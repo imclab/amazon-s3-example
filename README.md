@@ -7,3 +7,7 @@ In order to run it you must have a localsettings.py file that has the amazon cre
 
 AWS_KEY
 AWS_SECRET_KEY
+
+And the bucket name in:
+
+BUCKET
